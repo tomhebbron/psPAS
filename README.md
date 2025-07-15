@@ -996,8 +996,8 @@ Click the below dropdown to view the current list of psPAS functions and their m
 [`Clear-PASDiscoveredLocalAccount`][Clear-PASDiscoveredLocalAccount]                     |**P Cloud Only**    |Clear all  P Cloud Discovered Local Accounts
 [`Add-PASDiscoveredLocalAccount`][Add-PASDiscoveredLocalAccount]                         |**P Cloud Only**    |Add  P Cloud Discovered Local Account
 
-[Get-PASIPAllowList]:/psPAS/Functions/IPALlowList/Get-PASIPAllowList
-[Set-PASIPAllowList]:/psPAS/Functions/IPALlowList/Set-PASIPAllowList
+[Get-PASIPAllowList]:/psPAS/Functions/IPAllowList/Get-PASIPAllowList
+[Set-PASIPAllowList]:/psPAS/Functions/IPAllowList/Set-PASIPAllowList
 [Get-PASBYOKConfig]:/psPAS/Functions/BYOK/Get-PASBYOKConfig
 [Publish-PASDiscoveredLocalAccount]:/psPAS/Functions/Accounts/Publish-PASDiscoveredLocalAccount
 [Get-PASDiscoveredLocalAccountActivity]:/psPAS/Functions/Accounts/Get-PASDiscoveredLocalAccountActivity
